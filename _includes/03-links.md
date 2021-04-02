@@ -1,1 +1,1 @@
-[Via Varejo and GitHub case] (https://github.com/customer-stories/viavarejo)
+[Via Varejo and GitHub case](https://github.com/customer-stories/viavarejo)
