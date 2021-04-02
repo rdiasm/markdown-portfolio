@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Via Varejo and GitHub case] (https://github.com/customer-stories/viavarejo)
